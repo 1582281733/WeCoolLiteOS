@@ -1,0 +1,2 @@
+# WeCoolLiteOS
+lite operating system
