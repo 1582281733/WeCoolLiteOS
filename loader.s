@@ -28,3 +28,4 @@ _stop:
 kernel_stack:
 
 ; test
+; test2
